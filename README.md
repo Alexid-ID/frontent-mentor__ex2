@@ -1,6 +1,5 @@
 # Frontend Mentor - NFT preview card component
-
-# https://alex-mtid.github.io/frontent-mentor__ex2/
+# Lần 1 hơi fail :))
 
 ## Welcome! 👋
 
